@@ -9,7 +9,7 @@
   Describes how to split components into two categories for separation of concerns and reusability
 
 - **Redux Best Practices**  
-  https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.ij385pwu6  
+  https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e  
   Guidelines for tools, component structure, file layout, and async data handling
 
 - **"Redux Best Practices?"**  
@@ -19,3 +19,11 @@
 - **Best Practices for Building Large React Applications**  
   http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications  
   Excellent advice for structuring components and improving reuse
+
+- **Designing Simpler React Components**  
+  https://medium.com/building-asana/designing-simpler-react-components-13a0061afd16  
+  Tips on developing components for a scalable application, including using immutable data, pure functions, and some interesting suggestions on injecting data into components to improve separation of concerns.
+
+- **React-Redux Style Guide**  
+  https://github.com/ghengeveld/react-redux-styleguide  
+  An opinionated style guide for developing applications in ES6+ with React and/or Redux.
