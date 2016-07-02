@@ -77,3 +77,15 @@
 - **Functors, Applicatives, and Monads in Plain English**  
   http://www.russbishop.net/monoids-monads-and-functors  
   An attempt to explain these concepts in reasonable terms.
+
+- **Learning Functional Programming with Javascript**  
+  https://youtu.be/e-5obm1G_FY  
+  A great talk by Anjana Vakil.  Covers several basic concepts of functional programming, including some very nice examples of map/filter/reducer, a clear fdefinition of side effects, and an explanation of how specialized immutable data libraries work.
+
+- **Thinking in Ramda**  
+  http://randycoulman.com/blog/categories/thinking-in-ramda/  
+  A series of articles digging into techniques to use with the Ramda FP utility library
+  
+- **Functional Programming Isn't the Answer**  
+  http://degoes.net/articles/fp-is-not-the-answer  
+  A reminder that while FP has potential benefits, it's ultimately just a tool, and the end goal is useful software.
