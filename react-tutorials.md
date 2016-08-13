@@ -176,6 +176,14 @@
   https://www.infoq.com/presentations/react-reconciliation  
   A video presentation digging into how React's reconciliation algorithm determines how to properly update nodes based on render output.
   
+- **React Fiber Architecture**  
+  https://github.com/acdlite/react-fiber-architecture  
+  A description of React's new core algorithm, React Fiber
+  
+- **On the Async Nature of `setState` in React**  
+  http://thereignn.ghost.io/on-the-async-nature-of-setstate-in-react/  
+  Digs into the behavior of `setState`, and whether it is actually always async or not.  Some decent info, although the final section does make some strange statements.
+  
 #### Paid Courses and Books
 
 
@@ -190,10 +198,6 @@
 - **Pro React**  
   http://www.pro-react.com/  
   The book teaches you how to successfully structure increasingly complex front-end applications and interfaces.  You will learn how to use React completely, and learn best practices for creating interfaces in a composable way. You will also cover additional tools and libraries in the React ecosystem (such as React Router and Flux architecture). 
-
-  **appendTo Instructor-led React Courses**  
-  https://appendto.com/courses/react-training/  
-  appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.
   
   
   
