@@ -140,6 +140,12 @@
 - **SurviveJS - React**  
   http://survivejs.com/react/introduction  
   A full book online book that shows how to develop a Kanban application. Covers key ideas of React, Flux, and advanced concepts such as styling. The commercial version has more content, but you can complete the basic tutorial for free.  
+  
+- **A Primer on the React Ecosystem**  
+  http://patternhatch.com/2016/07/06/a-primer-on-the-react-ecosystem-part-1-of-3/  
+  http://patternhatch.com/2016/08/02/a-primer-on-the-react-ecosystem-part-2-of-3/  
+  A multi-part tutorial that demonstrates how to set up a React development environment, create React components and have them respond to data changes, and manage app state with Redux.
+  
 
 #### React Implementation Walkthroughs
   
@@ -186,6 +192,7 @@
   
 #### Paid Courses and Books
 
+Also see the course sites listed in the [Community Resources](community-resources.md#online-course-sites) page.
 
 - **React.js Program**  
   http://courses.reactjsprogram.com/courses  
@@ -198,6 +205,11 @@
 - **Pro React**  
   http://www.pro-react.com/  
   The book teaches you how to successfully structure increasingly complex front-end applications and interfaces.  You will learn how to use React completely, and learn best practices for creating interfaces in a composable way. You will also cover additional tools and libraries in the React ecosystem (such as React Router and Flux architecture). 
+
+  **appendTo Instructor-led React Courses**  
+  https://appendto.com/courses/react-training/  
+  appendTo offers instructor-led, hands-on React training courses on React, Redux, React Native, ES6, and Webpack.
   
+
   
   
