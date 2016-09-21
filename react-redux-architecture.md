@@ -166,6 +166,14 @@
   https://www.sitepoint.com/exploring-reacts-state-propagation/  
   Discusses data flow in React, the difference between `state` and `props`, and the usefulness of immutability
   
+- **The 5 Types of React Application State**  
+  http://jamesknelson.com/5-types-react-application-state/  
+  Describes different categories of state: data, communication, control, session, and location
+  
+- **"M" and "C" in "MVC"**  
+  https://github.com/jamesknelson/m-and-c-in-mvc-talk  
+  Slides for James K. Nelson's talk at ReactNext, talking about the multiple categories of state and how controller components can manage them.
+  
 #### React and AJAX
 
 - **React AJAX Best Practices**  
@@ -191,6 +199,10 @@
 - **Building Realtime Collaborative Offline-First Apps with React, Redux, PouchDB, and Websockets**  
   http://blog.yld.io/2015/11/30/building-realtime-collaborative-offline-first-apps-with-react-redux-pouchdb-and-web-sockets/  
   A blog post and sample project demonstrating various layers of client-server syncing, eventually driving a Redux store and React UI.
+  
+- **AJAX Requests in React: How and Where to Fetch Data**  
+  https://daveceddia.com/ajax-requests-in-react/  
+  An overview of where AJAX requests fit into React usage.
   
   
 #### React and Forms
@@ -336,7 +348,4 @@
 - **Where do I put my business logic in a React-Redux application?**  
   https://medium.com/@jeffbski/where-do-i-put-my-business-logic-in-a-react-redux-application-9253ef91ce1  
   Describes several options for managing logic and async behavior (thunks, sagas, etc), and introduces a new middleware as an alternative approach
-
-- **Code Sharing Between React Native and React Web Apps**  
-  https://medium.com/the-many/code-sharing-between-react-native-and-react-web-apps-b1e1de22fc53  
-  Describes ways to architect Redux actions and reducers in the context of a product that shares code between React Native and React Web clients
+  
