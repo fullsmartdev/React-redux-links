@@ -190,7 +190,7 @@
   
 - **When to Define Action Creators in Redux**  
   https://daveceddia.com/redux-action-creators/  
-  An excellent overview of why action creators exist, why theyâ€™re worth using, and when you can skip them
+  An excellent overview of why action creators exist, why they’re worth using, and when you can skip them
   
 - **React Redux Design Lessons Learned**  
   http://www.jeremyzerr.com/sites/default/files/React-Redux-Design-Lessons-Learned.pdf  
@@ -345,6 +345,10 @@
   http://www.thesoftwaresimpleton.com/blog/2016/12/20/instance-reducers/  
   An interesting approach to the "multiple instances of a connected component" problem.
   
+- **Managing state for multiple component instances using React and Redux**  
+  https://medium.com/@mikefey/managing-state-for-multiple-component-instances-using-react-and-redux-623ef7448cbe  
+  Some useful examples illustrating the basic approach to storing data for individual reusable component instances in a Redux store
+  
 - **How to use Redux on highly scalable Javascript applications?**  
   https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38  
   Discussion of ways to structure reducers, selectors, and other logic into reusable features
@@ -419,3 +423,8 @@
 - **NgRx: Patterns and Techniques**  
   https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5  
   Describes a variety of patterns and approaches for using the NgRx library (a clone of Redux built with RxJS and commonly used with Angular).  The labels and categories given for side effects approaches, like "content-based decider", "content enricher", etc, can be applied to existing Redux middlewares as well.  
+  
+- **MVC implemented by React and Causality-Redux**  
+  https://medium.com/dailyjs/mvc-implemented-by-react-and-causality-redux-c4125a01e95c  
+  https://medium.com/@causality_redux/react-redux-how-to-write-significantly-less-code-c0562ff06d5a  
+  A pair of posts discussing how to use the "causality-redux" library to implement an MVC-type architecture on top of React and Redux.
