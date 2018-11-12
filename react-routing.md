@@ -165,6 +165,10 @@
   https://medium.com/@nesbtesh/dealing-with-authentication-in-react-cadb679fbc0f  
   Some short examples of saving an authentication token, writing queries to use and update that token, and checking the token when rendering components.
   
+- **Role based routing with React and Redux**  
+  http://crazysigma.com/blogs/2017/04/16/role-based-routing-react-redux/  
+  A description of a fairly simple approach for defining role-based handling of routes, with sample code.
+  
 - **Preact Authentication Tutorial**  
   https://auth0.com/blog/preact-authentication-tutorial/  
   A tutorial that demonstrates how to build an app with Preact, including authentication, and makes some comparisons to doing so in React.
@@ -181,3 +185,7 @@
 - **Securing a React Web App with Authorization Rules**  
   https://medium.appbase.io/securing-a-react-web-app-with-authorization-rules-2e43bf5592ca  
   A tutorial that shows how to add authorization and authentication to a Todo app
+  
+- **Composing authorizing into React apps**  
+  https://medium.com/@sarat1669/composing-authorization-into-react-apps-180fa3c18d1  
+  Examples of generic auth management at the component level, using a package called react-identity.

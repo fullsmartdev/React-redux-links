@@ -8,7 +8,7 @@
 - [Redux Techniques: Redux and Forms](redux-techniques.md#redux-and-forms)
 
 
-#### "Controlled" and "Uncontrolled Inputs
+#### "Controlled" and "Uncontrolled" Inputs
 
 - **React Docs: Forms**  
   https://facebook.github.io/react/docs/forms.html  
@@ -82,7 +82,7 @@
   Covers the basics of implementing form rendering, updates, and validation, in plain JS
   
 - **Forms in React and Redux**  
-  https://x-team.com/blog/tutorial-forms-in-react-and-redux/  
+  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
   Demonstrates building a simple set of wrapper components to manage forms using React and Redux
   
 - **Not-so-simple Forms with React**  
@@ -96,6 +96,10 @@
 - **Handling React Forms with Mobx Observables**  
   https://blog.risingstack.com/handling-react-forms-with-mobx-observables/  
   Some examples of working with forms in React, using MobX for the data management.
+  
+- **Forms in React and Redux**  
+  http://x-team.com/2016/02/tutorial-forms-in-react-and-redux/  
+  A good example of how to set up form handling in conjunction with a Redux store.
   
 - **Radio Buttons and Checkboxes in React**  
   http://react.tips/radio-buttons-in-reactjs/  
@@ -137,6 +141,10 @@
 - **How to Work with Forms, Inputs, and Events in React**  
   https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b  
   An excerpt from the book "React Quickly", which gives an overview of the recommended way to use forms in a React app.
+  
+- **An imperative guide to forms in React**  
+  https://blog.logrocket.com/an-imperative-guide-to-forms-in-react-927d9670170a  
+  A useful overview of how to work with forms.  Includes several runnable examples, and also looks at how the Formik library can simplify form handling.
   
   
 #### Form Validation
