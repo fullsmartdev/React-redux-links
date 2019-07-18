@@ -234,7 +234,7 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
   A goofy but informative look at many of the concepts and pieces that make up Webpack
   
 - **Webpack Loader Variations**  
-  http://andrewhfarmer.com/webpack-loader-variations/  
+  https://javascriptstuff.com/webpack-loader-variations/  
   Examples of the different ways to define a loader in a Webpack config
   
 - **Remix's Software Stack: Webpack**  
@@ -311,8 +311,3 @@ Also see the [Awesome Webpack list](https://github.com/d3viant0ne/awesome-webpac
 - **webpack-flow**  
   https://github.com/webpack-flow/webpack-flow  
   A set of utilities to manage sharable webpack configs and make them reusable.
-  
-- **createapp.dev**  
-  https://createapp.dev/webpack  
-  Online tool for creating your own webpack config by selecting the features you need. It's a visual way of learning webpack, and you can download your project as a zip file when you're done!
-  

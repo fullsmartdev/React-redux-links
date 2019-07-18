@@ -40,7 +40,7 @@
   Examples of how to think about and model data and UI state
 
 - **Understanding the Functional Revolution in Front-End Applications**  
-  https://web.archive.org/web/20171020192305/http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/  
+  http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/  
   Higher-level tutorial describing functional programming and how it relates to Javascript, UI, and client-side applications
 
 - **Functional UI and Components as Higher Order Functions**  
@@ -288,7 +288,7 @@
   
   
 - **Three Example React Stacks**  
-  http://andrewhfarmer.com/three-example-react-stacks/  
+  https://www.javascriptstuff.com/three-example-react-stacks  
   Descriptions of three different application/deployment scenarios, and example React library+tool stacks that would be appropriate for each.
   
 - **Reusable Web Application Strategies: three patterns for running the same app in multiple spots**  
